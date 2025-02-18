@@ -25,6 +25,7 @@
         "react-router-dom": "^6.28.1",
         "react-scripts": "^5.0.1",
         "sass": "^1.83.1",
+        "tippy.js": "^6.3.7",
         "web-vitals": "^4.2.4"
     },
     "devDependencies": {
