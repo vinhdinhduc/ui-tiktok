@@ -3,9 +3,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { publicRoutes } from '~/routes';
 import React from 'react';
 import Following from './Page/Following';
-import DefaultLayout from './components/Layout/DefaultLayout';
-import Header from './components/Layout/DefaultLayout/component/Header';
-import AccountItem from './components/Layout/DefaultLayout/component/AccountItems';
+import DefaultLayout from '~/layouts';
+
 function App() {
     return (
         <Router>
